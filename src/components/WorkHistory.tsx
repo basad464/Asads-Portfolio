@@ -3,7 +3,7 @@
 const workHistory = [
   {
     title: "AI Software Engineer",
-    company: "QRMD",
+    company: "CureMD",
     duration: "2 Years",
     type: "Corporate",
     description: [
